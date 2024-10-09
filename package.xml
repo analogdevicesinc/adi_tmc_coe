@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>adi_tmc_coe</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <description>The adi_tmc_coe package</description>
   
   <maintainer email="ROS@analog.com">ROS@analog.com</maintainer>

@@ -2,8 +2,8 @@
 Changelog for package adi_tmc_coe
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.1 (2024-10-10)
+------------------
 * Change dependencies installation
   - Remove auto clone of soem
   - Add ros-soem as build_depend on package.xml
