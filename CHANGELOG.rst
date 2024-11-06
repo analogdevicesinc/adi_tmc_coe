@@ -2,8 +2,8 @@
 Changelog for package adi_tmc_coe
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.2 (2024-11-06)
+------------------
 * Added RPATH in CMakeList
   - Added RPATH in CMakeList.txt to run package even with binary installation.
   - Rename maintainer name in package.xml
